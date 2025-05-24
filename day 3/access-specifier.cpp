@@ -25,8 +25,13 @@ class Bank{
         }
          // setter
         void withdrawAmount(int account, int amount){
+            if(amount<=balance){
             balance-= amount;
             cout<< "The amount has been withdrawn successfully!"<<endl;
+            }
+            else{
+                cout<< "Insufficient Balance Cannot withdraw"<<endl;
+            }
         }
         // getter
 
