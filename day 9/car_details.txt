@@ -1,0 +1,22 @@
+The Car Details are as follows: 
+Car Brand: tata
+Car Model: curvv
+Car Variant: ev
+Launch Year: 2023
+offer Price:Rs.  123456
+Car has these features: 
+	1. ac
+	2. airbags
+-------------------------------------
+The Car Details are as follows: 
+Car Brand: Audi
+Car Model: Q6
+Car Variant: Petrol
+Launch Year: 2019
+offer Price:Rs.  1200005
+Car has these features: 
+	1. asd
+	2. asdd
+	3. adf
+	4. sad
+-------------------------------------
